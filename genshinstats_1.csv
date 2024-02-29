@@ -1,0 +1,66 @@
+,Unnamed: 0,Character,Lv,Rarity,Element,Weapon,Main role,Ascension,Base HP,Base ATK,Base DEF,TEST
+0,0,Amber,90,4,Pyro,Bow,Sub DPS,ATK,9461,223,601,11.48179612
+1,1,Barbara,90,4,Hydro,Catalyst,Healer,HP,9787,159,669,11.82004831
+2,2,Beidou,90,4,Electro,Claymore,Sub DPS,Electro DMG,13050,225,648,14.94845361
+3,3,Bennett,90,4,Pyro,Sword,Healer,Energy Recharge,12397,191,771,12.88669439
+4,4,Chongyun,90,4,Cryo,Claymore,Sub DPS,ATK,10984,223,648,12.61079219
+5,5,Diluc,90,5,Pyro,Claymore,DPS,CRIT Rate,12981,335,784,11.60053619
+6,6,Fischl,90,4,Electro,Bow,Sub DPS,ATK,9189,244,594,10.96539379
+7,7,Jean,90,5,Anemo,Sword,Healer,Healing Bonus,14695,239,769,14.57837302
+8,8,Kaeya,90,4,Cryo,Sword,Support,Energy Recharge,11636,223,792,11.46403941
+9,9,Keqing,90,5,Electro,Sword,DPS,CRIT DMG,13103,323,799,11.67825312
+10,10,Klee,90,5,Pyro,Catalyst,DPS,Pyro DMG,10287,311,615,11.10907127
+11,11,Lisa,90,4,Electro,Catalyst,Support,Elemental Mastery,9570,232,573,11.88819876
+12,12,Mona,90,5,Hydro,Catalyst,Support,Energy Recharge,10409,287,653,11.07340426
+13,13,Ningguang,90,4,Geo,Catalyst,DPS,Geo DMG,9787,212,573,12.46751592
+14,14,Noelle,90,4,Geo,Claymore,Support,DEF,12071,191,799,12.19292929
+15,15,Qiqi,90,5,Cryo,Sword,Healer,Healing Bonus,12368,287,922,10.2299421
+16,16,Razor,90,4,Electro,Claymore,DPS,Physical DMG,11962,234,751,12.14416244
+17,17,Sucrose,90,4,Anemo,Catalyst,Support,Anemo DMG,9244,170,703,10.58877434
+18,18,Venti,90,5,Anemo,Bow,Support,Energy Recharge,10531,263,669,11.29935622
+19,19,Xiangling,90,4,Pyro,Polearm,Sub DPS,Elemental Mastery,10875,225,669,12.16442953
+20,20,Xiao,90,5,Anemo,Polearm,DPS,CRIT Rate,12736,349,799,11.09407666
+21,21,Xingqiu,90,4,Hydro,Sword,Sub DPS,ATK,10222,202,758,10.64791667
+22,22,Tartaglia,90,5,Hydro,Bow,DPS,Hydro DMG,13103,301,815,11.74103943
+23,23,Zhongli,90,5,Geo,Polearm,Support,Geo DMG,14695,251,738,14.85844287
+24,24,Diona,90,4,Cryo,Bow,Support,Cryo DMG,9570,212,601,11.77121771
+25,25,Xinyan,90,4,Pyro,Claymore,Support,ATK,11201,249,799,10.6879771
+26,26,Ganyu,90,5,Cryo,Bow,DPS,CRIT DMG,9797,335,630,10.15233161
+27,27,Albedo,90,5,Geo,Sword,Support,Geo DMG,13226,251,876,11.73558119
+28,28,Rosaria,90,4,Cryo,Polearm,DPS,ATK,12289,240,710,12.93578947
+29,29,Ayaka,90,5,Cryo,Sword,DPS,CRIT DMG,12858,342,784,11.41918295
+30,30,Hutao,90,5,Pyro,Polearm,DPS,CRIT DMG,15552,106,876,15.83706721
+31,31,Yanfei,90,4,Pyro,Catalyst,DPS,Pyro DMG,9352,240,587,11.30834341
+32,32,Eula,90,5,Cryo,Claymore,DPS,CRIT DMG,13226,342,751,12.10064044
+33,33,Kazuha,90,5,Anemo,Sword,Support,Elemental Mastery,13348,297,807,12.09057971
+34,34,Yoimiya,90,5,Pyro,Bow,DPS,CRIT Rate,10164,323,615,10.8358209
+35,35,Sayu,90,4,Anemo,Claymore,Healer,Elemental Mastery,11854,244,745,11.98584429
+36,36,Traveler,90,5,All,Sword,Support,ATK,10875,212,683,12.15083799
+37,37,Shogun,90,5,Electro,Polearm,Sub DPS,Energy Recharge,12907,337,789,11.46269982
+38,38,Aloy,90,5,Cryo,Bow,DPS,Cryo DMG,10899,234,676,11.97692308
+39,39,Sara,90,4,Electro,Bow,Support,ATK,9570,195,628,11.62818955
+40,40,Kokomi,90,5,Hydro,Catalyst,Healer,Hydro DMG,13471,234,657,15.11896745
+41,41,Alhaitham,90,5,Dendro,Sword,DPS,Dendro DMG Bonus,13348,313.32,781.62,12.19062232
+42,42,Collei,90,4,Dendro,Bow,Support,ATK,9787,200,601,12.2184769
+43,43,Nahida,90,5,Dendro,Catalyst,Sub DPS,Elemental Mastery,10360,299,630,11.1517761
+44,44,Tighnari,90,5,Dendro,Bow,DPS,Dendro DMG Bonus,10850,289,630,11.80631121
+45,45,Yaoyao,90,4,Dendro,Polearm,Healer,HP,12289,212.4,750.77,12.75891068
+46,46,Alhaitham,90,5,Dendro,Sword,DPS,Dendro DMG Bonus,13348,313.32,781.62,12.19062232
+47,47,Collei,90,4,Dendro,Bow,Support,ATK,9787,200,601,12.2184769
+48,48,Nahida,90,5,Dendro,Catalyst,Sub DPS,Elemental Mastery,10360,299,630,11.1517761
+49,49,Tighnari,90,5,Dendro,Bow,DPS,Dendro DMG Bonus,10850,289,630,11.80631121
+50,50,Yaoyao,90,4,Dendro,Polearm,Healer,HP,12289,212.4,750.77,12.75891068
+51,51,Cyno,90,5,Electro,Polearm,DPS,CRIT DMG,12419,318,859,10.55140187
+52,52,Dori,90,4,Electro,Claymore,Support,HP,15373,223,723,16.25052854
+53,53,Faruzan,90,4,Anemo,Bow,Support,ATK,9569,196,627,11.62697448
+54,54,Gorou,90,4,Geo,Bow,Support,Geo DMG,9570,183,648,11.51624549
+55,55,Ayato,90,5,Hydro,Sword,DPS,CRIT DMG,13715,299,769,12.8417603
+56,56,Kuki Shinobu,90,4,Electro,Sword,Support,HP,12289,212,751,12.76116303
+57,57,Layla,90,4,Cryo,Sword,Support,HP,11092,216,655,12.7347876
+58,58,Nilou,90,5,Hydro,Sword,DPS,HP,15185,230,729,15.83420229
+59,59,Heizou,90,4,Anemo,Catalyst,DPS,Anemo DMG,10657,225,684,11.72387239
+60,60,Thoma,90,4,Pyro,Polearm,Support,ATK,10331,202,751,10.84050367
+61,61,Wanderer,90,5,Anemo,Catalyst,DPS,CRIT Rate,10164,327,607,10.88222698
+62,62,Yae Miko,90,5,Electro,Catalyst,DPS,CRIT Rate,10372,340,569,11.41034103
+63,63,Yelan,90,5,Hydro,Bow,Support,CRIT Rate,14450,244,548,18.24494949
+64,64,Yun Jin,90,4,Geo,Polearm,Support,Energy Recharge,10657,191,734,11.52108108
